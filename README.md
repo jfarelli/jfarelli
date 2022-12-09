@@ -1,6 +1,6 @@
 # Hey there! I'm Jordan!
 
-## <b>Who is this guy??</b>
+Who is this guy??
 
 I’m a front-end developer with a background in product management and design with over ten years of experience as a Footwear Colorist. I also served in the Army as a Counterintelligence Agent where I lead a Human Intelligence team. 
 
